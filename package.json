@@ -28,9 +28,11 @@
     "test": ""
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.18.2"
   },
   "devDependencies": {
+    "morgan": "^1.10.0",
     "nodemon": "^3.0.1"
   }
 }
